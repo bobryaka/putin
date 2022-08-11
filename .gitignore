@@ -1,0 +1,11 @@
+/cuted_audio/*
+!/cuted_audio/.gitkeep
+
+/done_audio/*
+!/done_audio/.gitkeep
+
+/resources/*
+!/resources/.gitkeep
+
+/vosk-model-ru-0.22/*
+!/vosk-model-ru-0.22/.gitkeep
